@@ -1,0 +1,4 @@
+In this chapter I learned about 
+
+!. writing my first code in Python language.
+!!. Modules, use of pip and commenting.
